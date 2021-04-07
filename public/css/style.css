@@ -1,0 +1,89 @@
+
+.icon{
+    flex-wrap: wrap;
+    width: 400px;
+    height: auto; overflow: hidden;
+    border: 0px;
+    margin: auto;
+    background-position: center;
+}
+
+.icon .icono{
+    margin-top: 2%;
+    min-width: 300px;
+    width: 398px;
+    border: 1px ;
+    float: inline-start;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.nueva{
+    flex-wrap: wrap;
+    width: 80%;
+    height: auto; overflow: hidden;
+    border: 0px;
+    margin: auto;
+    background-position: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.nueva .nacion{
+    margin-top: 2%;
+    padding: 10px;
+    min-width: 300px;
+    width: 80%;
+    height: auto;
+    border: 1px solid #546E7A;
+    float: inline-start;
+    text-align: center;
+    border-radius: 10px;
+    background: #CFD8DC;
+}
+
+.nuevo{
+    flex-wrap: wrap;
+    width: 80%;
+    height: auto; overflow: hidden;
+    border: 0px;
+    margin: auto;
+    background-position: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.nuevo .notinacionales{
+    margin-top: 2%;
+    min-width: 300px;
+    width: 80%;
+    border: 1px solid #ccc;
+    float: inline-start;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background: #CFD8DC;
+    border: 1px solid#546E7A;
+}
+
+.estado{
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto; overflow: hidden;
+    border: 0px;
+    margin: auto;
+    background-position: center;
+}
+
+.estado .public_privado{
+    margin-top: 5px;
+    min-width: 200px;
+    width: 100px;
+    border: 0px;
+    padding: 10px;
+    float: right;
+    text-align: center;
+    border-radius: 10px;
+    margin-right: 3%;
+}
